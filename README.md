@@ -24,7 +24,7 @@ assignment5/
 
 ## Data
 
-`[data/iris.csv](data/iris.csv)` contains 150 iris flower measurements with four numeric features and a species label:
+`data/iris.csv` contains 150 iris flower measurements with four numeric features and a species label:
 
 
 | Column | Description                                                  |
@@ -40,10 +40,10 @@ The file has no header row.
 
 ## Manual Notebooks
 
-The `[manual/](manual/)` folder contains tutorials adapted from Jason Brownlee's step-by-step machine learning guides ([Python](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/) and [R](https://machinelearningmastery.com/machine-learning-in-r-step-by-step/))
+The `manual/` folder contains tutorials adapted from Jason Brownlee's step-by-step machine learning guides ([Python](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/) and [R](https://machinelearningmastery.com/machine-learning-in-r-step-by-step/))
 
-- `[ML_python.ipynb](manual/ML_python.ipynb)` — Python workflow using scikit-learn
-- `[ML_R.ipynb](manual/ML_R.ipynb)` — R workflow using caret
+- `manual/ML_python.ipynb` — Python workflow using scikit-learn
+- `manual/ML_R.ipynb` — R workflow using caret
 
 
 
@@ -69,7 +69,7 @@ The manual environment includes Python packages (`pandas`, `scikit-learn`, `matp
 
 ## AI-Generated Workflow
 
-The `[ai/](ai/)` folder contains a separate AI-generated iris classification notebook with its own conda environment. See `[ai/README_AI.md](ai/README_AI.md)` for setup and usage instructions.
+The `ai/` folder contains a separate AI-generated iris classification notebook with its own conda environment. See `ai/README_AI.md` for setup and usage instructions.
 
 ## Quick Start
 
