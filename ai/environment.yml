@@ -1,0 +1,11 @@
+name: assignment5-ai
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - jupyter
+  - ipykernel
