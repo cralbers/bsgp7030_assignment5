@@ -1,0 +1,21 @@
+name: assignment5
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - pandas
+  - matplotlib
+  - seaborn
+  - scipy
+  - scikit-learn
+  - numpy
+  - jupyterlab
+  - ipykernel
+  - r-irkernel
+  - r-caret
+  - r-ellipse
+  - r-kernlab
+  - r-randomforest
+  - r-ggplot2
+prefix: /Users/coraalbers/anaconda3/envs/assignment5
